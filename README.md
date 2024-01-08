@@ -1,1 +1,2 @@
 # Comfyui_Fooocus_promptExpansion
+此扩展是整合fooocus中提示词扩展功能
